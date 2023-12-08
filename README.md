@@ -16,6 +16,10 @@ Avaiable functions here.
 
 Call `require("fcitx").only_active_when_insert()` or define your own function.
 
+## Dependencies
+
+- [niuiic/core.nvim](https://github.com/niuiic/core.nvim)
+
 ## Config
 
 Default configuration here.
