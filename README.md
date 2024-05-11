@@ -2,6 +2,8 @@
 
 Neovim plugin to automatically switch fcitx input method
 
+[More neovim plugins](https://github.com/niuiic/awesome-neovim-plugins)
+
 ## Usage
 
 Avaiable functions here.
