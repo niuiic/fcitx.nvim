@@ -1,7 +1,7 @@
 local config = {
-	get_status = "fcitx5-remote",
-	active_input_method = "fcitx5-remote -o",
-	inactive_input_method = "fcitx5-remote -c",
+	get_status = { cmd = "fcitx5-remote" },
+	active_input_method = { cmd = "fcitx5-remote", args = { "-o" } },
+	inactive_input_method = { cmd = "fcitx5-remote", args = { "-c" } },
 }
 
 return {
