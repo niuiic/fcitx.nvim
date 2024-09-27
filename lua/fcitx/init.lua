@@ -9,7 +9,7 @@ local function get_fcitx_status(cb)
 		if not ok then
 			return
 		end
-		cb(output)
+		cb(string.find(output, "1") == nil)
 	end, function()
 		ok = false
 	end, function(_, data)
