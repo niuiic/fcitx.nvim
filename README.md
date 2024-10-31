@@ -4,10 +4,6 @@ Neovim plugin to automatically switch fcitx input method without delay.
 
 [More neovim plugins](https://github.com/niuiic/awesome-neovim-plugins)
 
-## Dependencies
-
-- [niuiic/core.nvim](https://github.com/niuiic/core.nvim)
-
 ## Config
 
 Default configuration here.
